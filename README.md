@@ -12,10 +12,10 @@ Este é um projeto de **Jogo de Adivinhação**. O objetivo é adivinhar um núm
 ---
 
 ## Funcionalidades
-- **Geração de número aleatório**: O sistema escolhe um número automaticamente ao iniciar o jogo.
-- **Interface amigável**: Layout simples e intuitivo.
-- **Validação de entrada**: Garante que o jogador insira apenas números válidos.
-- **Feedback dinâmico**: Informa o jogador se o número está correto ou errado.
+1. **Geração de número aleatório**: O sistema escolhe um número automaticamente ao iniciar o jogo.
+2. **Interface amigável**: Layout simples e intuitivo.
+3. **Validação de entrada**: Garante que o jogador insira apenas números válidos.
+4. **Feedback dinâmico**: Informa o jogador se o número está correto ou errado.
 
 ---
 
