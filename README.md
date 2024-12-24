@@ -2,7 +2,7 @@
 
 [Gabriel Soares](https://www.linkedin.com/in/gabriel-soares-3098782b0/)
 
-
+![image](https://github.com/user-attachments/assets/2715e522-595d-4a7c-b1d1-d81f7d12fb6b)
 
 ---
 
